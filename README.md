@@ -18,7 +18,7 @@ sudo apt-get install libjpeg-dev
 sudo apt-get install libfreetype6-dev
 
 # set up venv and install pillow
-cd <your venv root directory name>
+cd your-venv-root-directory-name
 
 pyvenv pillowtest
 
